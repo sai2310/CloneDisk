@@ -6,8 +6,7 @@
   # Script Usage and parameters accepted :
      Usage: 
         python3.9/python3.7 clonedisk.py --powervc-host  <powervc_name> --username <user_name> --password <password> --disks <rootvg_disks> --lparname <name_of_lpar_in_powervc>
-
-  rootvg_disks: <hdisk0, hdisk1.....>
+     rootvg_disks: <hdisk0, hdisk1.....>
 
   # Code flow:
 
