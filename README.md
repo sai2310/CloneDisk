@@ -1,4 +1,5 @@
-  # Software requirments : Powervc 2.0.0 and above supported, python3.9/python3.7 with Requests module.
+  # Software requirments : 
+    Powervc 2.0.0 and above supported, python3.9/python3.7 with Requests module.
 
   # Prequisites:
     Before running the script ensure storage template is set for rootvg disk and also name of lpar passed must exactly match with one managed in powervc. 
